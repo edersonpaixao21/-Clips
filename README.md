@@ -52,7 +52,6 @@ $ ng serve
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
 -   [Firebase](https://firebase.google.com/?hl=pt-br)
 -   [Typescript](https://www.typescriptlang.org/)
--   [Vercel (Host)](https://vercel.com/docs)
 
 </br>
 
